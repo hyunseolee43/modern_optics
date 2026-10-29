@@ -1,0 +1,5 @@
+filter,power_fraction_of_input,percent
+1. 25 mm circular aperture (reference),0.985023677,98.502368
+2. Vertical slit: 20 x 0.5 mm,0.557485640,55.748564
+3. Horizontal slit: 20 x 0.5 mm,0.557485402,55.748540
+4. 2 mm opaque central stop,0.485266149,48.526615

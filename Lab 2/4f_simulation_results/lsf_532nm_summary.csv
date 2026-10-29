@@ -1,0 +1,16 @@
+metric,value,unit
+wavelength,532.0,nm
+aperture_diameter,25.0,mm
+focal_length,30.0,mm
+grid_pitch,50.0,µm
+target_line_width,5.0,µm
+NA_assumed,0.38462,
+Abbe_limit,0.6916,µm
+x_calibration,1.04167,µm/pixel
+y_calibration,1.04167,µm/pixel
+x_line_profile_FWHM,5.0,µm
+y_line_profile_FWHM,5.0,µm
+x_effective_LSF_FWHM,2.74644,µm
+y_effective_LSF_FWHM,3.01143,µm
+number_x_patches,94.0,profiles
+number_y_patches,59.0,profiles
